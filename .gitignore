@@ -1,0 +1,7 @@
+# Designer files
+*.Designer.cs
+*.resx
+
+# Project files
+*.csproj
+*.csproj.user
